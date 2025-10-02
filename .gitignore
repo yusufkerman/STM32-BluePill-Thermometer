@@ -1,0 +1,24 @@
+# Build folders
+/Debug/
+/Release/
+/build/
+
+# Eclipse/STM32CubeIDE settings (local IDE files)
+.project
+.cproject
+.settings/
+*.launch
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Binary / obj
+*.o
+*.elf
+*.bin
+*.hex
+
+# STM32CubeMX files you may want to keep: .ioc genelde repoya eklenir (proje yapılandırması için)
+# Eğer .ioc'yi versiyonlayacaksan kaldırmayın. Aksi halde ekleyin:
+# *.ioc
